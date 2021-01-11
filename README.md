@@ -1,6 +1,6 @@
 ### Hi there 👋 Leandro Lelis
 
-I started using technologies since I was 13 years old, with 486 and few years later, developing personal websites, when the first dynamic web sites using ASP.NET was getting popular. I have a System Analysis degree from PUC-Campinas and I've started my career in Unicamp as a development intern(java, struts, cobol) and worked with manual testing(end-to-end and system test) in some big companies like IBM and Motorola, after some time I decided to try another professional area but after some years I'm back and I'm studing a lot Javascript stack(React/React Native and Node)
+I'm studing a lot Javascript stack(React/React Native and Node)
 
 I'm also very interested in VR(Unity3D and Unreal) to create interactive virtual enviroments for business
 
