@@ -5,8 +5,8 @@ I started using technologies since I was 13 years old, with 486 and few years la
 I'm also very interested in VR(Unity3D and Unreal) to create interactive virtual enviroments for business
 
 - 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning node.js, Jest and Java Sprint Boot
-- 👯 I’m looking to collaborate on any project with Javascript stack
+- 🌱 I’m currently learning React JS, React Native, node.js, Jest
+- 👯 I’m looking to collaborate on any project with Javascript stack or VR projects
 - 💬 Linkedin https://www.linkedin.com/in/leandro-lelis-b43495202/
 - 📫 Email: leandroaugustolelis@gmail.com
 
@@ -19,6 +19,14 @@ Technologies I'm currently using it
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactJS and react native"  width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgreesql" width="70" height="70"/>
+  <br>
+  <br>
+    Technologies I'm looking forward to learn
+  <br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="css3" width="70" height="70"/>
+
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugustolelis&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 ![leandroaugustolelis's github stats](https://github-readme-stats.vercel.app/api?username=leandroaugustolelis&show_icons=true&theme=react)
