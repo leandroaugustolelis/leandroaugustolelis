@@ -20,12 +20,8 @@ Technologies I'm currently using it
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgreesql" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="css3" width="70" height="70"/>
   <br>
-  <br>
-    Technologies I'm looking forward to learn
-  <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="css3" width="70" height="70"/>
-
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugustolelis&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 ![leandroaugustolelis's github stats](https://github-readme-stats.vercel.app/api?username=leandroaugustolelis&show_icons=true&theme=react)
