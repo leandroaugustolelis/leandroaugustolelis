@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Leandro Lelis, 
+### Hi there 👋, 
 
 
 - 🔭 I’m currently looking for a job
