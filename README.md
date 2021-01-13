@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Leandro Lelis, my first contact with technology was when I was 12 years old with a 486 computer and first shoot game 'Doom' , few years later I developed some dynamic websites for my gaming teams(Quake and Warcraft) using HTML, CSS, ASP.NET(almost all sites were static). 
 ### I have a System Analysis degree from PUC-Campinas and I started my professional life as a Java development intern of Unicamp(Java, Cobol), after that I worked in some big companies like IBM and Motorola as manual tester(system test/end-to-end). I also worked in a finance company using C# .NET MVC, ReactJS and GraphQL.
-### I decided to work many years with another activies not related to IT but now I'm back and I'm studying a lot Javascript stack(ReactJS/React Native and Node) and I'm also very interested in VR(Unity3D and Unreal) to create interactive virtual enviroments for business.
+### I decided to work many years with another activies not related to IT but now I'm back and I'm studying a lot Javascript stack(ReactJS/React Native and Node) and in the near future I'm very interested in studying VR(Unity3D and Unreal) to create interactive virtual enviroments for business.
 
 
 - 🔭 I’m currently looking for a job
