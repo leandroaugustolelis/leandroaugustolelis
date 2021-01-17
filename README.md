@@ -7,7 +7,8 @@
 - 💬 Linkedin https://www.linkedin.com/in/leandro-lelis-b43495202/
 - 📫 Email: leandroaugustolelis@gmail.com
 
-<img src="https://github.com/leandroaugustolelis/leandroaugustolelis/blob/main/myoctocat.png" alt="css3" width="200" height="200"/>
+<p align="center">
+<img src="https://github.com/leandroaugustolelis/leandroaugustolelis/blob/main/myoctocat.png" alt="css3" width="300" height="300"/>
 
 <p align="center">
 Technologies I'm currently using it
