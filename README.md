@@ -21,5 +21,5 @@ Technologies I'm currently using it
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="css3" width="70" height="70"/>
   <br>
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugustolelis&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![leandroaugustolelis's github stats](https://github-readme-stats.vercel.app/api?username=leandroaugustolelis&show_icons=true&theme=dark)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugustolelis&langs_count=5&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![leandroaugustolelis's github stats](https://github-readme-stats.vercel.app/api?username=leandroaugustolelis&show_icons=true&theme=react)
