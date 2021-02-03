@@ -22,4 +22,4 @@ Technologies I'm currently using it
   <br>
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugustolelis&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-![leandroaugustolelis's github stats](https://github-readme-stats.vercel.app/api?username=leandroaugustolelis&show_icons=true&theme=react)
+![leandroaugustolelis's github stats](https://github-readme-stats.vercel.app/api?username=leandroaugustolelis&show_icons=true&theme=dracula)
