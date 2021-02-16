@@ -1,6 +1,6 @@
 ### Hi there,
 
-- 🌱 I’m currently learning React JS, React Native, node.js, Jest, Spring Boot
+- 🌱 I’m currently learning React.JS, React Native, Node.JS, Jest, Jasmine
 - 👯 I’m looking to collaborate on any project with Javascript stack or VR projects
 - 💬 Linkedin https://www.linkedin.com/in/leandro-lelis-b43495202/
 - 📫 Email: leandroaugustolelis@gmail.com
