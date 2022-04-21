@@ -1,12 +1,9 @@
 ### Hi there,
 
-- 🌱 I’m currently learning React.JS, React Native, Node.JS, Jest, Jasmine
-- 👯 I’m looking to collaborate on any project with Javascript stack or VR projects
+- 🌱 I’m currently learning Node.JS, DDD, TDD, Clean Code, SOLID, REST APIs
+- 👯 I’m looking to collaborate on any project with Javascript stack
 - 💬 Linkedin https://www.linkedin.com/in/leandroleliss/
 - 📫 Email: leandroaugustolelis@gmail.com
-
-<p align="center">
-<img src="https://github.com/leandroaugustolelis/leandroaugustolelis/blob/main/myoctocat.png" alt="css3" width="300" height="300"/>
 
 <p align="center">
 Technologies I'm currently using it
